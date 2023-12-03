@@ -1,17 +1,12 @@
-import CreatingAndNestingComponents from "./react-dev/CreatingAndNestingComponents";
-import Profile from "./react-dev/DisplayingData";
-import ConditionalRendering from "./react-dev/ConditionalRendering";
+import FreeMealAPI from "./components/FreeMealAPI";
 
-
-export default function App() {
+function App() {
 
     return (
         <>
-            <CreatingAndNestingComponents />
-            <h1>Displaying Data</h1>
-            <Profile />
-            <h1>Conditional Rendering</h1>
-            <ConditionalRendering />
+            <FreeMealAPI />
         </>
     );
 }
+
+export default App;
