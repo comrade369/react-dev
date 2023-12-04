@@ -1,10 +1,10 @@
-import FreeMealAPI from "./components/FreeMealAPI";
+import Calculator from "./components/Calculator";
 
 function App() {
 
     return (
         <>
-            <FreeMealAPI />
+            <Calculator />
         </>
     );
 }
