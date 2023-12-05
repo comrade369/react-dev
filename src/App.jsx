@@ -1,10 +1,10 @@
-import Calculator from "./components/Calculator";
+import ToggleButtonColor from "./components/ToggleButtonColor";
 
 function App() {
 
     return (
         <>
-            <Calculator />
+            <ToggleButtonColor />
         </>
     );
 }
