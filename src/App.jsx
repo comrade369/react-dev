@@ -1,10 +1,11 @@
-import SimpleCounter from "./SimpleCounter";
+import PersonalInfo from "./PersonalInfo";
+
 
 function App() {
 
     return (
         <>
-            <SimpleCounter />
+            <PersonalInfo />
         </>
     );
 }
