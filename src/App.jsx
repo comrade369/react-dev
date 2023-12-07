@@ -1,6 +1,5 @@
 // import { useState } from "react";
-import SearchQuery from "./SearchQuery";
-
+import SearchQuery2 from "./SearchQuery2";
 // Build search filter in reactjs.
 function App() {
 
@@ -47,7 +46,7 @@ function App() {
 
     return (
         <>
-            <SearchQuery />
+            <SearchQuery2 />
         </>
     );
 }
