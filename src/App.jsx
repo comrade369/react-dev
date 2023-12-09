@@ -1,10 +1,10 @@
-import Accordion from "./Accordion";
+import IconsInReact from "./IconsInReact";
 
 function App() {
 
     return (
         <>
-            <Accordion />
+            <IconsInReact />
         </>
     );
 }
