@@ -1,11 +1,10 @@
-import PersonalInfo from "./PersonalInfo";
-
+import Accordion from "./Accordion";
 
 function App() {
 
     return (
         <>
-            <PersonalInfo />
+            <Accordion />
         </>
     );
 }
